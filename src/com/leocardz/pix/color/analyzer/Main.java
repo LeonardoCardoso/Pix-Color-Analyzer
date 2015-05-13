@@ -11,8 +11,11 @@ public class Main {
     public static void main(String[] args) {
         if (args.length > 1) {
             new Analyzer(args[0], Integer.valueOf(args[1])).analyze();
-        } else {
+        } else if (args.length == 1) {
             new Analyzer(args[0]).analyze();
+        } else {
+            System.out.println("Argument options: [image path] [dominant colors amount]");
+            System.exit(1);
         }
     }
 
