@@ -19,15 +19,15 @@ Obs.: For images that have many colors it can take a while to generate the windo
 
 ## Picture
 
-![Nebula](https://dl.dropboxusercontent.com/s/naho1zt8iujebep/neb_small.jpg)
+![Nebula](https://dl.dropboxusercontent.com/s/vha3q1e64x24msb/neb_small.jpg)
 
 ## Palette
 
 Here the most dominant colors are printed in descending order
 
-![Palette](https://dl.dropboxusercontent.com/s/v337r4iq1rf08on/pallete.png)
+![Palette](https://dl.dropboxusercontent.com/s/s006hfutt2u3vhv/pallete.png)
 
-![Palette](https://dl.dropboxusercontent.com/s/tth13kd58gt6u89/results_palette.png)
+![Palette](https://dl.dropboxusercontent.com/s/z4679u29hsrxv19/results_palette.png)
 
 
 
