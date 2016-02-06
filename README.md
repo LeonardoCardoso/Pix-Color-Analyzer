@@ -19,7 +19,7 @@ Obs.: For images that have many colors it can take a while to generate the windo
 
 ## Picture
 
-![Nebula](https://dl.dropboxusercontent.com/s/vha3q1e64x24msb/neb_small.jpg)
+![Nebula](http://i.imgur.com/wvTK9KE.jpg)
 
 ## Palette
 
