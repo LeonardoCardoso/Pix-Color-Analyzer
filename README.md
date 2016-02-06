@@ -25,9 +25,9 @@ Obs.: For images that have many colors it can take a while to generate the windo
 
 Here the most dominant colors are printed in descending order
 
-![Palette](https://dl.dropboxusercontent.com/s/s006hfutt2u3vhv/pallete.png)
+![Palette](http://i.imgur.com/sLEIoIF.png)
 
-![Palette](https://dl.dropboxusercontent.com/s/z4679u29hsrxv19/result_pallete.png)
+![Palette](http://i.imgur.com/gUS0z68.png)
 
 
 
