@@ -33,6 +33,9 @@ Here the most dominant colors are printed in descending order
 
 For more details, visit http://lab.leocardz.com/pix-color-analyzer/
 
+## Contact
+
+Contact me either by Twitter [@leocardz](https://twitter.com/leocardz) or emailing me to [contact@leocardz.com](mailto:contact@leocardz.com).
 
 ## License
 
